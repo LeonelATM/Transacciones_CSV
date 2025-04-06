@@ -12,7 +12,7 @@ Identificar el ID y el monto de la transacción con el valor más alto.
 - **Conteo de Transacciones:**
 Número total de transacciones para cada tipo ("Crédito" y "Débito").
 
-##Instrucciones de Ejecución:
+## Instrucciones de Ejecución:
 **Dependencias:**
 - **` csv-parser`**: Dependencia para Node.js que permite analizar archivos en formato **`.csv`** y transformarlos en objetos JavaScript, facilitando la manipulación de datos como tipo **`.json`**. 
 
