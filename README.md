@@ -1,7 +1,7 @@
 # Transacciones_CSV
-#Proyecto: Procesamiento de Transacciones Bancarias (CLI).
+# Proyecto: Procesamiento de Transacciones Bancarias (CLI).
 
-###Introducción:
+### Introducción:
 El proposito de este proyecto es procesar la información de un archivo en formato.csv para poder manipular los datos del mismo con el fin de hallar:
 - **Balance Final:**
 Suma de los montos de las transacciones de tipo "Crédito" menos la suma de los montos de las transacciones de tipo "Débito".
