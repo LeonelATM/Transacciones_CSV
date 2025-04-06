@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "trasacciones_csv": "file:"
+  },
+  "name": "trasacciones_csv",
+  "version": "1.0.0",
+  "description": "## Objetivo: La aplicación tiene como objetivo leer un archivo CSV y mostrar su contenido en la consola.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
