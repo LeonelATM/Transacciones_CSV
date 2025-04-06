@@ -24,7 +24,7 @@ En la teminal de Node.js se debe ingresar el siguiente comando: **`npm install c
 Para ejecutar la aplicación en la terminal de Node.js se debe ingrese el comando: **`node index.js`** para hacer referencia al archivo donde esta desarrollada la aplicación.
 
 ----
-###Enfoque y Solución:
+### Enfoque y Solución:
 El enfoque de la aplicación en monolitico ya que se esta desarrollando todas las responsabilidades en un archivo sin funciones u otros componentes reutilizables a futuro.
 
 #### **Tecnologias:**
